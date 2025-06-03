@@ -1,0 +1,25 @@
+{
+  "name": "mcp_server_proto",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atish-raina/mcp_server_proto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atish-raina/mcp_server_proto/issues"
+  },
+  "homepage": "https://github.com/atish-raina/mcp_server_proto#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^16.5.0",
+    "zod": "^3.25.49"
+  }
+}
